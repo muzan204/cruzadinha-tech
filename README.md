@@ -1,7 +1,10 @@
 # 🧠✨ Cruzadinha Tech
 
 
+
 <img src="./img/banner.png">
+
+---
 
 <p align="center">
 
