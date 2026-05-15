@@ -1,75 +1,72 @@
-# 🧠✨ Cruzadinha Tech
-
-
-
-# 🖼️ Imagens do Projeto
-
-## ✅ `logo.png`
-
-Logo principal da Cruzadinha Tech.
-
-Usada assim:
-
-
-<img src="./img/logo.png">
-
----
-
-## ✅ `banner.png`
-
-Banner futurista usado no topo do README.
-
-Usado assim:
-
+<p align="center">
 
 <img src="./img/banner.png">
 
+</p>
 
-🚀 Aprenda tecnologia se divertindo com uma cruzadinha futurista neon.
+<h1 align="center">
+
+🧠⚡ Cruzadinha Tech ⚡🧠
+
+</h1>
+
+<p align="center">
+
+🚀 Aprenda tecnologia se divertindo em uma experiência futurista neon.
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/UI-Neon-purple?style=for-the-badge">
+<img src="https://img.shields.io/badge/Status-Online-success?style=for-the-badge">
 
 </p>
 
 ---
 
-# 🎮 Sobre o Projeto
+# 🌌 Sobre o Projeto
 
-A **Cruzadinha Tech** é um jogo interativo criado com:
+A **Cruzadinha Tech** é um jogo educativo com visual cyberpunk/neon criado para ensinar conceitos de tecnologia de forma divertida, moderna e interativa.
 
-- ✅ HTML5
-- ✅ CSS3
-- ✅ JavaScript
-- ✅ UI futurista neon
-- ✅ Design responsivo
-- ✅ Sistema de perguntas
-- ✅ Pontuação
-- ✅ Barra de progresso
-- ✅ Sistema de vidas
+O projeto combina:
+
+✨ Interface futurista  
+🧠 Perguntas tecnológicas  
+🎮 Interatividade  
+⚡ Efeitos neon  
+🚀 Experiência dinâmica
 
 ---
 
-# ⚡ Funcionalidades
+# 🎮 Funcionalidades
 
-✨ Interface moderna estilo cyberpunk  
-✨ Efeitos neon e animações suaves  
-✨ Perguntas sobre tecnologia  
-✨ Letras escondidas até acertar  
-✨ Sistema de progresso  
-✨ Feedback visual de acertos e erros  
-✨ Responsivo para celular
+<div align="center">
+
+| ✨ Sistema | 🚀 Descrição |
+|---|---|
+| 🧠 Perguntas | Perguntas sobre tecnologia |
+| 🔥 Neon UI | Interface moderna cyberpunk |
+| ❤️ Vidas | Sistema de erros e tentativas |
+| 🏆 Pontos | Sistema de pontuação |
+| 📊 Progresso | Barra de progresso animada |
+| 📱 Responsivo | Funciona no celular |
+| ✨ Glow Effects | Efeitos luminosos |
+
+</div>
 
 ---
 
 # 🛠️ Tecnologias
 
-<div align="center">
+<p align="center">
 
-| Tecnologia | Uso |
-|---|---|
-| HTML5 | Estrutura |
-| CSS3 | Estilização |
-| JavaScript | Lógica do jogo |
+<img src="https://skillicons.dev/icons?i=html,css,js,vscode,github">
 
-</div>
+</p>
 
 ---
 
@@ -77,27 +74,54 @@ A **Cruzadinha Tech** é um jogo interativo criado com:
 
 ```bash
 📦 cruzadinha-tech
- ┣ 📂 img
- ┃ ┗ 📜 logo.png
- ┣ 📜 index.html
- ┣ 📜 style.css
- ┣ 📜 script.js
- ┗ 📜 README.md
+│
+├── 📄 index.html
+├── 📄 style.css
+├── 📄 script.js
+├── 📄 README.md
+│
+└── 📂 img
+    │
+    ├── 🖼️ logo.png
+    │
+    └── 🖼️ banner.png
 ```
+
+---
+
+# 🎨 Assets Visuais
+
+## 🧠 Logo
+
+<p align="center">
+
+<img src="./img/logo.png" width="170">
+
+</p>
+
+---
+
+## 🌌 Banner
+
+<p align="center">
+
+<img src="./img/banner.png">
+
+</p>
 
 ---
 
 # 🚀 Como Executar
 
 ```bash
-# Clone o projeto
+# Clone o repositório
 git clone https://github.com/muzan204/cruzadinha-tech.git
 
 # Entre na pasta
 cd cruzadinha-tech
 ```
 
-Depois basta abrir:
+Abra o arquivo:
 
 ```bash
 index.html
@@ -107,43 +131,75 @@ index.html
 
 # 🌐 Publicação
 
-Você pode publicar facilmente em:
+<div align="center">
 
-- 🔥 Vercel
-- 🌍 Netlify
-- ⚡ GitHub Pages
+| Plataforma | Link |
+|---|---|
+| 🔥 Vercel | Fácil deploy |
+| ⚡ Netlify | Hospedagem grátis |
+| 🌍 GitHub Pages | Publicação simples |
+
+</div>
 
 ---
 
-# 💜 Destaques Visuais
+# 💜 Destaques do Projeto
 
-✔ Glassmorphism  
-✔ Neon UI  
-✔ Glow Effects  
-✔ Gradientes modernos  
-✔ Layout futurista  
-✔ Animações suaves
+✨ Glassmorphism  
+✨ Cyberpunk UI  
+✨ Neon Effects  
+✨ Layout moderno  
+✨ Responsividade  
+✨ Efeitos animados  
+✨ Design futurista
 
 ---
 
 # 🧠 Conceitos Utilizados
 
-- DOM
-- Eventos
-- Arrays
-- Condições
-- Loops
-- Manipulação de classes
-- Responsividade
-- CSS avançado
+```txt
+✔ DOM
+✔ Eventos
+✔ Arrays
+✔ Condições
+✔ Loops
+✔ Responsividade
+✔ Manipulação de Classes
+✔ CSS Avançado
+✔ Animações
+✔ UI Design
+```
 
 ---
 
-# 👨‍💻 Autor
+# 🎯 Melhorias Futuras
+
+- 🔊 Sons de acerto
+- 🏅 Sistema de ranking
+- 🌎 Multiplayer
+- 🎮 Novos modos de jogo
+- 📱 App mobile
+- ☁ Banco de dados online
+
+---
+
+# 👨‍💻 Desenvolvedor
 
 <p align="center">
 
-Feito com 💜 por Gustavo Belchior
+<img src="./img/logo.png" width="120">
+
+</p>
+
+<h3 align="center">
+
+💜 Gustavo Belchior 💜
+
+</h3>
+
+<p align="center">
+
+Desenvolvedor Front-End • UI Designer • Criador da Cruzadinha Tech
 
 </p>
 
@@ -151,16 +207,24 @@ Feito com 💜 por Gustavo Belchior
 
 # ⭐ Apoie o Projeto
 
-Se você gostou:
+<p align="center">
 
-⭐ Deixe uma estrela no repositório  
-🚀 Compartilhe  
-💜 Faça um fork
+⭐ Dê uma estrela no repositório  
+🚀 Compartilhe com amigos  
+💜 Faça um Fork
+
+</p>
 
 ---
 
 <p align="center">
 
-✨ Cruzadinha Tech © 2026 ✨
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8b5cf6&height=120&section=footer"/>
 
 </p>
+
+<h3 align="center">
+
+✨ Cruzadinha Tech © 2026 ✨
+
+</h3>
