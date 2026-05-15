@@ -2,18 +2,28 @@
 
 
 
-<img src="./img/banner.png">
+# 🖼️ Imagens do Projeto
+
+## ✅ `logo.png`
+
+Logo principal da Cruzadinha Tech.
+
+Usada assim:
+
+
+<img src="./img/logo.png">
 
 ---
- LOGO
- 
-<p align="center">
 
-<img src="./img/logo.png" width="170">
+## ✅ `banner.png`
 
-</p>
+Banner futurista usado no topo do README.
 
-<p align="center">
+Usado assim:
+
+
+<img src="./img/banner.png">
+
 
 🚀 Aprenda tecnologia se divertindo com uma cruzadinha futurista neon.
 
