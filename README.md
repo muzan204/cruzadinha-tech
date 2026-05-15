@@ -14,16 +14,6 @@
 
 ---
 
-# 🌌 Preview
-
-<p align="center">
-
-<img src="./img/preview.png">
-
-</p>
-
----
-
 # 🎮 Sobre o Projeto
 
 A **Cruzadinha Tech** é um jogo interativo criado com:
@@ -105,28 +95,6 @@ Você pode publicar facilmente em:
 - 🔥 Vercel
 - 🌍 Netlify
 - ⚡ GitHub Pages
-
----
-
-# 📸 Screenshots
-
-## 🖥️ Desktop
-
-<p align="center">
-
-<img src="./img/screenshot-desktop.png">
-
-</p>
-
----
-
-## 📱 Mobile
-
-<p align="center">
-
-<img src="./img/screenshot-mobile.png" width="300">
-
-</p>
 
 ---
 
